@@ -1,0 +1,117 @@
+{
+	"projects": [
+		{
+			"image": "https://media.defcad.com/entityimages/e29d775ed30f46dd987e58c0be98e375.jpg",
+			"title": "Durbans-lx22-mlok-open-top-shorty",
+			"bodyText": "Lx22 Handgaurd Variant",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/durbanpoisonpew/"
+				},
+				{
+					"text": "Odysee",
+					"href": "https://odysee.com/@DurbanPoisonPew:9/Durbans-LX-22-Mlok-Open-Top-Shorty:4"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/fb59165703d047ba816d380cbffc4141.jpg",
+			"title": "Durbans-Don't-Shoot-Your-Fingers-Off-HandStop",
+			"bodyText": "A device that keeps you from putting your hands in front of the barrel",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/library/7b2fe9c1-4638-4e62-b760-d1c4dc1d0c3a/"
+				},
+				{
+					"text": "Odysee",
+					"href": "https://odysee.com/@DurbanPoisonPew:9/Dont-Shoot-Your-Fingers-Off-HandStop:3"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/ab9dbdda93e940f387b71abe52f80d0d.jpg",
+			"title": "Durban's-TRIFORCE-muzzle-device",
+			"bodyText": "a muzzle device that offsets recoil and shifts where the gas leaving the barrel ends",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/library/9fe2c228-16c8-4790-b0d9-1ee2cb5b3334/"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/061f2d333c344292982fc9c91b7ce7cc.jpg",
+			"title": "Durbans-halfx28-micro-comp-extravaganza",
+			"bodyText": "3 different sized Muzzle devices that help offset recoil(the barrel going up)",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/library/9b6aa1bb-b8db-4e6f-b264-ed0bb0806979/"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/8764cfb25a8b4e3983f56a9841ee05ba.jpg",
+			"title": "Durbans-Pick-Your-Poison",
+			"bodyText": "a foregrip that can be turned around depending on what you find comfortable",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/library/d1e86d60-6647-491c-846b-65f4abeb9ddf/"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/152f3bd9b8ff4e3886bd461881b5dc9f.jpg",
+			"title": "Durbans-22lr-1/2x28-Tanker-Style-Brake",
+			"bodyText": "1/2x28 tpi 'tanker' style muzzle brake",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/library/33c1b9b2-9608-441c-88ef-5c6a0714a1fd/"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/ef4e9372645846f889fd87bf3faf17ab.jpg",
+			"title": "Durbans-Suprisingly-Normal-Looking-Hand-Stop",
+			"bodyText": "simple handstop",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/library/397396dc-d85d-4582-82e9-0e6f2f889998/"
+				}
+			],
+			"tags": ["TypeScript", "Angular 12", "JavaScript"]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/a851c12104914b0c9c26ae7397643215.jpg",
+			"title": "Durbans-Delight-22lr-2-Stage-Muzzle-Device",
+			"bodyText": "a two-stage(outer-shell is removable, flash-hider and blast-can",
+			"links": [
+				{
+					"text": "Defcad",
+					"href": "https://defcad.com/library/b558a6c3-37e9-47ed-94c8-c8ce2b9ea08d/"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/64c2dbe97dd64262b4139d64b79c2c76.jpg",
+			"title": "Durbans-HoloSun507c-Riser-Literally-No-One-Asked-For",
+			"bodyText": "a riser literally no one asked me to make but here you go your welcome",
+			"links": [
+				{
+					"text":"Defcad",
+					"href":  "https://defcad.com/library/bef22612-95ba-43e3-93f4-e7fd66613035/"
+				}
+			]
+		},
+		{
+			"image": "https://media.defcad.com/entityimages/c57830c1c35d49caafa788e5b7f52025.jpg",
+			"title": "Durbans-Cyber-Stop",
+			"bodyText": "a aesthetically pleasing hand stop"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 120,
+        "width" : 95
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+		{
+			"title": "In Development",
+			"href": "/inDevelopment"
+		},
+		{
+			"title": "Additional Links",
+			"href": "/additionalLinks"
+		}
+    ]
+
+}

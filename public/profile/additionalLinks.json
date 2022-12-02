@@ -1,0 +1,20 @@
+{
+	"AdditionalLinks":[
+		{
+		"title": "GitHub",
+		"image": "https://github.com/DurbansPoison/DurbanPoisonShowcase/blob/working/public/images/social/github.svg",
+		"links": {
+			"text": "Github",
+			"href": "https://github.com/DurbansPoison/"
+		}
+		},
+		{
+			"title": "Defcad",
+			"image": "https://defcad.com/users/durbanpoisonpew/",
+			"links": {
+				"text": "Defcad",
+				"href": "https://defcad.com/users/durbanpoisonpew/"
+			}
+		}
+	]
+}
